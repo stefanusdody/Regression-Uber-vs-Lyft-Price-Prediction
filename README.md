@@ -24,7 +24,7 @@ Objective yang ingin diperoleh adalah memprediksi harga layanan dengan menggunak
 - matplotlib
 - seaborn 
 
-#### pre-processing
+#### Pre-processing
 - StandardScaler
 - train_test_split 
 
@@ -33,7 +33,7 @@ Objective yang ingin diperoleh adalah memprediksi harga layanan dengan menggunak
 -  Ridge
 - Lasso
 
-#### for matrics evaluation
+#### Evaluasi Matrix
 - r2_score
 - mean_absolute_error
 - mean_squared_error
